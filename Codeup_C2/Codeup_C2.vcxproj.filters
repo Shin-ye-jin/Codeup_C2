@@ -16,10 +16,16 @@
     <Filter Include="소스 파일\1100번대">
       <UniqueIdentifier>{d4c5b351-488f-4ece-bc59-264104ea4900}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\1200번대">
+      <UniqueIdentifier>{f0ac9e26-99ea-4495-96ec-528b711d1296}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1107-09.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\1100번대</Filter>
+    </ClCompile>
+    <ClCompile Include="112n.c">
+      <Filter>소스 파일\1200번대</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
