@@ -25,6 +25,9 @@
       <Filter>소스 파일\1100번대</Filter>
     </ClCompile>
     <ClCompile Include="112n.c">
+      <Filter>소스 파일\1100번대</Filter>
+    </ClCompile>
+    <ClCompile Include="128n.c">
       <Filter>소스 파일\1200번대</Filter>
     </ClCompile>
   </ItemGroup>
