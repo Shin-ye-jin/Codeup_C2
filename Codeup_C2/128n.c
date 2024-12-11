@@ -33,3 +33,19 @@
 //	printf("%d", result);
 //	return 0; // 1288 nCr (Tiny)
 //}
+
+//int main(void)
+//{
+//	int re, h, w, max = 0, i;
+//
+//	for (i = 0; i < 3; i++) {
+//		scanf("%d %d", &h, &w);
+//		re = h * w;
+//		if (max < re) {
+//			max = re;
+//		}
+//	}
+//
+//	printf("%d", max);
+//	return 0; //1289 가장 큰 운동장
+//}
