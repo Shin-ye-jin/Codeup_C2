@@ -30,3 +30,45 @@
 //	printf("%d", re);
 //	return 0; // 1291 바이러스 백신
 //}
+
+//int main(void)
+//{
+//	int a, n = 10, sum = 0,i;
+//	scanf("%d", &a);
+//
+//	for (i = 0; i < 10; i++) {
+//		sum = sum + a % 10;
+//		a /= 10;
+//	}
+//
+//	if (sum % 7 == 4) printf("suspect");
+//	else printf("citizen");
+//	return 0; // 1292 범인을 잡아라 1
+//}
+
+//int main(void)
+//{
+//	int n, i, max = 0, min = 0;
+//	int a[100];
+//	
+//	scanf("%d", &n);
+//
+//	for (i = 0; i < n; i++) {
+//		scanf("%d", &a[i]);
+//	}
+//
+//	max = a[0], min = a[0];
+//
+//	for (i = 1; i < n; i++) {
+//		if (max < a[i]) {
+//			max = a[i];
+//		}
+//		if (min > a[i]) {
+//			min = a[i];
+//		}
+//	}
+//
+//	printf("%d %d", max, min);
+//	return 0; // 1293 1등과 꼴등
+//}
+
