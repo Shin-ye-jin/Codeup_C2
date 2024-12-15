@@ -72,3 +72,13 @@
 //	return 0; // 1293 1등과 꼴등
 //}
 
+//#include<math.h>
+//
+//int main(void)
+//{
+//	float n, ln;
+//	scanf("%f", &n);
+//	ln = n / 4;
+//	printf("%.0f", floor(ln * ln)); // 버림 함수
+//	return 0; // 1296 직사각형의 최대 넓이
+//}
