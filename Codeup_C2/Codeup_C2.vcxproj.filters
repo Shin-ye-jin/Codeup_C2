@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\1200번대">
       <UniqueIdentifier>{f0ac9e26-99ea-4495-96ec-528b711d1296}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\1300번대">
+      <UniqueIdentifier>{fda23a44-9ba4-41c5-8def-e829743d5ae6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1107-09.c">
@@ -32,6 +35,9 @@
     </ClCompile>
     <ClCompile Include="129n.c">
       <Filter>소스 파일\1200번대</Filter>
+    </ClCompile>
+    <ClCompile Include="1359-60.c">
+      <Filter>소스 파일\1300번대</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
