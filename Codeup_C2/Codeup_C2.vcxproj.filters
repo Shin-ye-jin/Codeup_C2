@@ -36,7 +36,7 @@
     <ClCompile Include="129n.c">
       <Filter>소스 파일\1200번대</Filter>
     </ClCompile>
-    <ClCompile Include="1359-60.c">
+    <ClCompile Include="1359-60,62.c">
       <Filter>소스 파일\1300번대</Filter>
     </ClCompile>
   </ItemGroup>

@@ -131,7 +131,7 @@
     <ClCompile Include="112n.c" />
     <ClCompile Include="128n.c" />
     <ClCompile Include="129n.c" />
-    <ClCompile Include="1359-60.c" />
+    <ClCompile Include="1359-60,62.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
